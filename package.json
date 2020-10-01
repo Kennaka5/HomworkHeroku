@@ -8,8 +8,18 @@
   "author": "",
   "license": "ISC",
   "keywords": [],
-  "description": "",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "heroku": "^7.43.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kennaka5/HomworkHeroku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kennaka5/HomworkHeroku/issues"
+  },
+  "homepage": "https://github.com/Kennaka5/HomworkHeroku#readme",
+  "description": ""
 }
